@@ -55,7 +55,7 @@ public class GUI extends Applet implements ActionListener{
 
         GKM_3 = new Label("");
         GKM_3.setFont(Font_Text);
-        GKM_3.setBounds(h_lijn, v_lijn +120, TL_Label, TH_Label);
+        GKM_3.setBounds(h_lijn, v_lijn +125, TL_Label, TH_Label);
 
         GKM_4 = new Label("");
         GKM_4.setFont(Font_Text);
